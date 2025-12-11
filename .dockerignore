@@ -1,0 +1,28 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv
+venv
+ENV
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# 캐시 (이미지 크기 줄이기 위해 제외, 런타임에 다운로드)
+vectors/*.safetensors
+.cache
+
+# 기타
+*.log
+*.tmp
+.DS_Store
