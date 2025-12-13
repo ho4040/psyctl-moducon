@@ -42,6 +42,11 @@ AVAILABLE_VECTORS = {
         "model": "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct",
         "layer": "transformer.h.13.mlp",
     },
+    "Korean - Lewd (음란함)": {
+        "filename": "bipo_steering_korean_lewd.safetensors",
+        "model": "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct",
+        "layer": "transformer.h.11.mlp",
+    },
 }
 
 
